@@ -1,4 +1,4 @@
-# 🐍 Terminal Snake Game (Python with Curses)
+# 🐍 Terminal Snake Game (Python with Curses)!
 
 An old-school Snake game created utilizing Python's `curses` module — playable directly in your terminal!
 
